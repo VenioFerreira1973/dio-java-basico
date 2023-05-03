@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExceptionCustomizada2",
+            "request": "launch",
+            "mainClass": "br.com.dio.tratamentoexcecoes.ExceptionCustomizada2",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionCustomizada1",
+            "request": "launch",
+            "mainClass": "br.com.dio.tratamentoexcecoes.ExceptionCustomizada1",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExemploList",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.list.ExemploList",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExemploOrdenacaoList",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.list.ExemploOrdenacaoList",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioPerguntasCrime",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.list.ExercicioPerguntasCrime",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExerciciosTemperaturas",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.list.ExerciciosTemperaturas",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "DesafioLancamentoDados",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.map.DesafioLancamentoDados",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExemploOrdenacaoMap",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.map.ExemploOrdenacaoMap",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioMap",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.map.ExercicioMap",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioPopulacao",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.map.ExercicioPopulacao",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExemploOrdenacaoSet",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.set.ExemploOrdenacaoSet",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExemploSet",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.set.ExemploSet",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExerciciosCoresArcoIris",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.set.ExerciciosCoresArcoIris",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExerciciosLinguagens",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.set.ExerciciosLinguagens",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioStreamApi",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.streamApi.ExercicioStreamApi",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "RefatoracaoOrdenacaoMap",
+            "request": "launch",
+            "mainClass": "br.com.dio.collection.streamApi.RefatoracaoOrdenacaoMap",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "CheckedException",
+            "request": "launch",
+            "mainClass": "br.com.dio.tratamentoexcecoes.CheckedException",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        },
+        {
+            "type": "java",
+            "name": "UncheckedException",
+            "request": "launch",
+            "mainClass": "br.com.dio.tratamentoexcecoes.UncheckedException",
+            "projectName": "trabalhando-com-collections_61c237d1"
+        }
+    ]
+}
